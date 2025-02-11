@@ -1,0 +1,7 @@
+diffusers
+torch
+transformers
+opencv-python
+Pillow
+requests
+numpy
