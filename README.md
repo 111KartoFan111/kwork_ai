@@ -14,4 +14,8 @@
 pip install -r requirements.txt
 ```
 После установки всех пакетов запустить файл dowload.py тем самым выполним загрузку ИИ
-Для использования скрипта тредуется запуск main.py
+Для использования скрипта потребуеся использовать PowerShell или CMD
+```
+python main.py "https://i.postimg.cc/TwQPfqMF/Frame-188.png" 1 --output "result.jpg"
+```
+название файла {URL} тип здания {желаемый путь к изоброжению}
