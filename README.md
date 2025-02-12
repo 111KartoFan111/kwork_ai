@@ -19,6 +19,7 @@ pip install -r requirements.txt
 python main.py "https://i.postimg.cc/TwQPfqMF/Frame-188.png" 1 --output "result.jpg"
 ```
 название файла {URL} тип здания {желаемый путь к изоброжению}
+\n
 ИЛИ
 ```
 .\main_ini.bat "https://i.postimg.cc/TwQPfqMF/Frame-188.png" 1 "result.jpg"
